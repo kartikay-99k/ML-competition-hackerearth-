@@ -1,6 +1,6 @@
-# ML competition(hackerearth) 
+# [ML competition(hackerearth)](https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/) 
 
----------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 
 # Observation / Experiment and approach of each notebooks
 
@@ -27,3 +27,20 @@
 
 Almost Same as Notebook1 Used only for Hyperparametre tuning
 
+
+## Notebook3  -:
+
+### Approach/experiments
+
+1. Data preprocessing and Visualizations.
+2. Used LinearDiscriminantAnalysis + PCA
+3. PCA X 2 (PCA followed by another PCA).
+
+# Learning Experience
+
+This competition helped me to learn following.
+1. Different Classifiers (RidgeClassifier, RidgeClassifierCV, LogisticRegression, LogisticRegressionCV, SGDClassifier, Perceptron, SVC, KNeighborsClassifier , GaussianNB, DecisionTreeClassifier, GradientBoostingClassifier, BaggingClassifier, RandomForestClassifier, ExtraTreesClassifier, AdaBoostClassifier, OneVsRestClassifier ,OneVsOneClassifier ,OutputCodeClassifier , MLPClassifier ,LinearDiscriminantAnalysis )
+2. Hyperparametre tuning using RandomizedSearchCV ,GridsearchCV.
+3. Feature secletion technique.
+4. Boosting technique such as Gradientboosting, XGboost, Adaboost.
+5. In a nutshell , i learned using Scikitlearn.
