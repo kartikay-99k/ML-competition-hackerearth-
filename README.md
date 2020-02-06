@@ -19,3 +19,11 @@
 3. According to experiments ,selecting all feature came out be a better option, since accuracy was the highest for most of the calssifiers.
 4. For hyperparameter tuning ,I used RandomsearchCV. 
 5. Use of Stackingclassifier gave the best result.
+
+
+## Notebook2  -: 
+
+### Approach
+
+Almost Same as Notebook1 Used only for Hyperparametre tuning
+
