@@ -43,4 +43,4 @@ This competition helped me to learn following.
 2. Hyperparametre tuning using RandomizedSearchCV ,GridsearchCV.
 3. Feature secletion technique.
 4. Boosting technique such as Gradientboosting, XGboost, Adaboost.
-5. In a nutshell , i learned using Scikitlearn.
+
